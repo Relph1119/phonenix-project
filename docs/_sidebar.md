@@ -11,3 +11,9 @@
         * [第三部分 分布式的基石](phonenix_architecture/ch03.md)
         * [第四部分 不可变基础设施](phonenix_architecture/ch04.md)
         * [第五部分 技术方法论](phonenix_architecture/ch05.md)
+    * 《DevOps实践指南》
+        * [第一部分 DevOps介绍](devops_handbook/ch01.md)
+        * [第二部分 从何开始](devops_handbook/ch02.md)
+        * [第三部分 第一步：流动的技术实践](devops_handbook/ch03.md)
+        * [第四部分 第二步：反馈的技术实践](devops_handbook/ch04.md)
+        * [第五部分 第三步：持续学习与实验的技术实践](devops_handbook/ch05.md)
