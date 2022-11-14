@@ -17,3 +17,4 @@
         * [第三部分 第一步：流动的技术实践](devops_handbook/ch03.md)
         * [第四部分 第二步：反馈的技术实践](devops_handbook/ch04.md)
         * [第五部分 第三步：持续学习与实验的技术实践](devops_handbook/ch05.md)
+        * [第六部分 集成信息安全、变更管理和合规性的技术实践](devops_handbook/ch06.md)
